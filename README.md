@@ -5,11 +5,14 @@ Data Wrangling is an essential skill for Data Science, since you cannot have adv
 
 It can be divided in 3 main tasks:
 
-1. **Gather**: acquiring/collecting data. The very first step in any data-oriented task.
+1. **Gather**: acquiring/collecting data and importing that data into your programming environment. Examples: downloading a file, scraping a web page, querying an API etc.
 
 2. **Asses**: evaluate data **quality** and **tidiness**, identifying what needs fixing.
   - **Quality**: low quality data = *dirty data*. Issues with content, such as: missing, invalid (impossible values), inconsistent data (different units). Data should be <u>*clean enough to serve its purpose*</u> - hence it depends on what is is going to be used for.
-  - **Tidiness**: untidy data = *messy data*. Issues with structure that should be addresses in order to facilitate analysis, where: !) Each variable forms a column; B) Each observations forms a row; and C) Each type of observational unit forms a table.
+  - **Tidiness**: untidy data = *messy data*. Issues with structure that should be addresses in order to facilitate analysis, where: 
+    A. Each variable forms a column;
+    B) Each observations forms a row; and
+    C) Each type of observational unit forms a table.
 
 3. **Clean**: actions to be taken, according to the previous data assessment, to improve data quality and make the structure properly tidy. This task should be broken down into thre parts:
   - **Define**: a clear action plan - in writing. This "Cleaning Plan" serve as an instruction list for reproducibility.
