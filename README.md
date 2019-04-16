@@ -13,7 +13,7 @@ It can be divided in 3 main tasks:
 
 3. **Clean**:
 
-> $\implies$ **Note**: not to be confused with Exploratory Data Analysis (EDA). As a matter of fact, Data Wrangling is all about getting everything ready in order to explore the dataset, looking at descriptive statistics and charts.
+>**Note**: not to be confused with Exploratory Data Analysis (EDA). As a matter of fact, Data Wrangling is all about getting everything ready in order to explore the dataset, looking at descriptive statistics and charts.
 
 This repository contains exercises and small projects focusing on each of the main tasks of Data Wrangling.
 
