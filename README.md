@@ -33,5 +33,5 @@ This repository contains exercises and small projects focusing on each of the ma
 
 <details>
   <summary>2) Rotten Tomatoes: 100 best movies</summary>
-  This project focus on <b>Data Gathering</b>, using <code>Beautiful Soup</code> to parse HTML files to extract Critics and Audience Rating; <code>Requests</code> library to access <i>url</i> and save data locally: both text and image (using <code>PIL.Image</code> and <code>io.BytesIO</code>) - storing text reviews from Roger Ebert website and Movie Poster images from MediaWiki. Lastly, all datasets are merged to generate rating visualizations and themed WordCloud based on movie review over the poster image.
+  This <a href='https://github.com/marcellovictorino/DAND_4_Data_Wrangling/tree/master/2)%20Rotten%20Tomatoes%20Movie%20Score'> project</a> focus on <b>Data Gathering</b>, using <code>Beautiful Soup</code> to parse HTML files to extract Critics and Audience Rating; <code>Requests</code> library to access <i>url</i> and save data locally: both text and image (using <code>PIL.Image</code> and <code>io.BytesIO</code>) - storing text reviews from Roger Ebert website and Movie Poster images from MediaWiki. Lastly, all datasets are merged to generate rating visualizations and themed WordCloud based on movie review over the poster image.
 </details>
