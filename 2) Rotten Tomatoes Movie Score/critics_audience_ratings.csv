@@ -1,0 +1,101 @@
+ranking,critic_score,title,number_of_critic_ratings,title_aud,audience_score,audience_rating
+1,99,The Wizard of Oz (1939),110,The Wizard of Oz (1939),89,874425
+2,100,Citizen Kane (1941),75,Citizen Kane (1941),90,157274
+3,100,The Third Man (1949),77,The Third Man (1949),93,53081
+4,99,Get Out (2017),282,Get Out (2017),87,63837
+5,97,Mad Max: Fury Road (2015),370,Mad Max: Fury Road (2015),86,123937
+6,100,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) (1920),49,The Cabinet of Dr. Caligari (Das Cabinet des Dr. Caligari) (1920),89,27163
+7,100,All About Eve (1950),64,All About Eve (1950),94,44564
+8,98,Inside Out (2015),324,Inside Out (2015),89,133558
+9,99,The Godfather (1972),85,The Godfather (1972),98,730433
+10,99,Metropolis (1927),116,Metropolis (1927),92,62018
+11,98,E.T. The Extra-Terrestrial (1982),114,E.T. The Extra-Terrestrial (1982),72,32313030
+12,100,Modern Times (1936),53,Modern Times (1936),95,39736
+13,98,It Happened One Night (1934),52,It Happened One Night (1934),93,33106
+14,100,Singin' in the Rain (1952),49,Singin' in the Rain (1952),95,137643
+15,98,Boyhood (2014),283,Boyhood (2014),81,88478
+16,97,Casablanca (1942),74,Casablanca (1942),95,355952
+17,98,Moonlight (2016),292,Moonlight (2016),80,41956
+18,97,Psycho (1960),86,Psycho (1960),94,238259
+19,100,Laura (1944),60,Laura (1944),91,10481
+20,97,"Nosferatu, a Symphony of Horror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire) (1922)",62,"Nosferatu, a Symphony of Horror (Nosferatu, eine Symphonie des Grauens) (Nosferatu the Vampire) (1922)",87,47463
+21,98,Snow White and the Seven Dwarfs (1937),47,Snow White and the Seven Dwarfs (1937),78,469510
+22,98,A Hard Day's Night (1964),104,A Hard Day's Night (1964),89,50067
+23,97,La Grande illusion (Grand Illusion) (1938),63,La Grande illusion (Grand Illusion) (1938),92,11490
+24,100,North by Northwest (1959),65,North by Northwest (1959),94,78793
+25,99,The Battle of Algiers (La Battaglia di Algeri) (1967),83,The Battle of Algiers (La Battaglia di Algeri) (1967),95,14267
+26,93,Dunkirk (2017),337,Dunkirk (2017),82,53555
+27,100,The Maltese Falcon (1941),50,The Maltese Falcon (1941),91,57268
+28,100,Repulsion (1965),60,Repulsion (1965),87,18655
+29,96,12 Years a Slave (2013),316,12 Years a Slave (2013),90,138789
+30,96,Gravity (2013),315,Gravity (2013),80,301261
+31,98,Sunset Boulevard (1950),60,Sunset Boulevard (1950),95,52783
+32,98,King Kong (1933),54,King Kong (1933),86,89669
+33,96,Spotlight (2015),311,Spotlight (2015),93,68142
+34,100,The Adventures of Robin Hood (1938),45,The Adventures of Robin Hood (1938),89,33584
+35,100,Rashômon (1951),50,Rashômon (1951),93,47657
+36,100,Rear Window (1954),63,Rear Window (1954),95,149458
+37,99,Selma (2015),236,Selma (2015),86,60533
+38,99,Taxi Driver (1976),77,Taxi Driver (1976),93,258405
+39,99,Toy Story 3 (2010),291,Toy Story 3 (2010),89,605098
+40,96,Argo (2012),313,Argo (2012),90,207373
+41,100,Toy Story 2 (1999),163,Toy Story 2 (1999),86,998186
+42,98,The Big Sick (2017),217,The Big Sick (2017),90,23391
+43,100,The Bride of Frankenstein (1935),41,The Bride of Frankenstein (1935),87,24471
+44,98,Zootopia (2016),249,Zootopia (2016),92,98633
+45,100,M (1931),51,M (1931),95,35778
+46,92,Wonder Woman (2017),333,Wonder Woman (2017),90,112955
+47,100,The Philadelphia Story (1940),54,The Philadelphia Story (1940),93,46810
+48,97,Alien (1979),104,Alien (1979),94,457186
+49,98,Bicycle Thieves (Ladri di biciclette) (1949),56,Bicycle Thieves (Ladri di biciclette) (1949),94,33723
+50,100,Seven Samurai (Shichinin no Samurai) (1956),57,Seven Samurai (Shichinin no Samurai) (1956),97,90049
+51,100,The Treasure of the Sierra Madre (1948),45,The Treasure of the Sierra Madre (1948),93,25627
+52,98,Up (2009),286,Up (2009),90,1201878
+53,100,12 Angry Men (Twelve Angry Men) (1957),49,12 Angry Men (Twelve Angry Men) (1957),97,103672
+54,100,The 400 Blows (Les Quatre cents coups) (1959),54,The 400 Blows (Les Quatre cents coups) (1959),94,38368
+55,93,Logan (2017),309,Logan (2017),91,86540
+56,100,All Quiet on the Western Front (1930),40,All Quiet on the Western Front (1930),89,17768
+57,97,Army of Shadows (L'Armée des ombres) (1969),73,Army of Shadows (L'Armée des ombres) (1969),94,7011
+58,94,Arrival (2016),333,Arrival (2016),82,78740
+59,93,Baby Driver (2017),283,Baby Driver (2017),89,48114
+60,98,A Streetcar Named Desire (1951),54,A Streetcar Named Desire (1951),90,54761
+61,98,The Night of the Hunter (1955),64,The Night of the Hunter (1955),90,24322
+62,92,Star Wars: Episode VII - The Force Awakens (2015),370,Star Wars: Episode VII - The Force Awakens (2015),89,222789
+63,96,Manchester by the Sea (2016),278,Manchester by the Sea (2016),77,48189
+64,99,Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb (1964),74,Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb (1964),94,208215
+65,100,Frankenstein (1931),45,Frankenstein (1931),87,41140
+66,97,Vertigo (1958),64,Vertigo (1958),93,101454
+67,94,The Dark Knight (2008),325,The Dark Knight (2008),94,1827436
+68,96,Touch of Evil (1958),70,Touch of Evil (1958),92,30867
+69,98,The Babadook (2014),214,The Babadook (2014),72,37024
+70,100,The Conformist (1970),50,The Conformist (1970),91,8529
+71,100,Rebecca (1940),48,Rebecca (1940),92,39026
+72,99,Rosemary's Baby (1968),69,Rosemary's Baby (1968),87,72669
+73,99,Finding Nemo (2003),256,Finding Nemo (2003),86,33355673
+74,97,Brooklyn (2015),243,Brooklyn (2015),87,45763
+75,98,The Wrestler (2008),222,The Wrestler (2008),88,139795
+76,98,The 39 Steps (1935),44,The 39 Steps (1935),86,23647
+77,99,L.A. Confidential (1997),108,L.A. Confidential (1997),94,149772
+78,94,Gone With the Wind (1939),83,Gone With the Wind (1939),93,292794
+79,97,"The Good, the Bad and the Ugly (1966)",68,"The Good, the Bad and the Ugly (1966)",97,238420
+80,93,Skyfall (2012),349,Skyfall (2012),86,372497
+81,100,Open City (1946),41,Open City (1946),92,6128
+82,100,Tokyo Story (Tôkyô monogatari) (1953),42,Tokyo Story (Tôkyô monogatari) (1953),93,11325
+83,97,Hell or High Water (2016),237,Hell or High Water (2016),88,37738
+84,100,Pinocchio (1940),45,Pinocchio (1940),72,278682
+85,95,The Jungle Book (2016),284,The Jungle Book (2016),86,92856
+86,92,La La Land (2016),358,La La Land (2016),82,67325
+87,95,Star Trek (2009),336,Star Trek (2009),91,746458
+88,96,High Noon (1952),50,High Noon (1952),89,25065
+89,98,Apocalypse Now (1979),80,Apocalypse Now (1979),94,284606
+90,98,On the Waterfront (1954),61,On the Waterfront (1954),95,51664
+91,100,The Wages of Fear (1953),40,The Wages of Fear (1953),95,8536
+92,100,The Last Picture Show (1971),51,The Last Picture Show (1971),90,13893
+93,96,Harry Potter and the Deathly Hallows - Part 2 (2011),314,Harry Potter and the Deathly Hallows - Part 2 (2011),89,389431
+94,100,The Grapes of Wrath (1940),43,The Grapes of Wrath (1940),88,23954
+95,98,Roman Holiday (1953),52,Roman Holiday (1953),94,62895
+96,100,Man on Wire (2008),156,Man on Wire (2008),87,29827
+97,97,Jaws (1975),74,Jaws (1975),90,942217
+98,100,Toy Story (1995),78,Toy Story (1995),92,1107731
+99,97,"The Godfather, Part II (1974)",72,"The Godfather, Part II (1974)",97,409574
+100,100,Battleship Potemkin (1925),45,Battleship Potemkin (1925),85,18709
