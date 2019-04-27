@@ -23,7 +23,7 @@ It can be divided in 3 main tasks:
 
 >**Note**: not to be confused with Exploratory Data Analysis (EDA). As a matter of fact, Data Wrangling is all about getting everything ready in order to explore the dataset, looking at descriptive statistics and charts.
 
-This repository contains exercises and small projects focusing on each of the main tasks of Data Wrangling.
+This repository contains exercises and small projects focusing on each of the main tasks of Data Wrangling. 
 
 ## Project List
 <details>
@@ -31,3 +31,7 @@ This repository contains exercises and small projects focusing on each of the ma
   The [dataset](https://www.kaggle.com/udacity/armenian-online-job-postings) consists of 19,000 job postings between 2004 - 2015, with 24 Columns, full of string descriptions instead of simple categorical values.
 </details>
 
+<details>
+  <summary>2) Rotten Tomatoes: 100 best movies</summary>
+  This project focus on **Data Gathering**, using `Beautiful Soup` to parse HTML files to extract Critics and Audience Rating; `Requests` library to access *url* and save data locally: both text and image (using `PIL.Image` and `io.BytesIO`) - storing text reviews from Roger Ebert website and Movie Poster images from MediaWiki. Lastly, all datasets are merged to generate rating visualizations and themed WordCloud based on movie review over the poster image.
+</details>
