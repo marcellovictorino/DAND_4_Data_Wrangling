@@ -35,3 +35,11 @@ This repository contains exercises and small projects focusing on each of the ma
   <summary>2) Rotten Tomatoes: 100 best movies</summary>
   This <a href='https://github.com/marcellovictorino/DAND_4_Data_Wrangling/tree/master/2)%20Rotten%20Tomatoes%20Movie%20Score'> project</a> focus on <b>Data Gathering</b>, using <code>Beautiful Soup</code> to parse HTML files to extract Critics and Audience Rating; <code>Requests</code> library to access <i>url</i> and save data locally: both text and image (using <code>PIL.Image</code> and <code>io.BytesIO</code>) - storing text reviews from Roger Ebert website and Movie Poster images from MediaWiki. Lastly, all datasets are merged to generate rating visualizations and themed WordCloud based on movie review over the poster image.
 </details>
+
+<details>
+  <summary>3) Project 4: WeRateDogs Twitter</summary>
+  This <a href='https://github.com/marcellovictorino/DAND_4_Data_Wrangling/tree/master/3)%20Project%204%20-%20WeRateDogs%20Twitter'> project</a> is part of a requirement to graduate in the Udacity's Data Analyst Nanodegree (DAND). <br>
+  It provides the opportunity to implement <b>Data Wrangling</b> in practice by gathering data from different sources, assessing it for quality and tidiness issues and then promote the necessary cleaning task - programatically. <br>
+  Finally, once the data is properly cleaned and stored (<code>SQLite</code>), a brief analysis is conducted with visualizations, highlighting interesting insights. <hr>
+  The data for this project was provided in partnership with the <i>WeRateDogs</i> channel from twitter, containing over 5,000 observations about dogs.
+</details>
