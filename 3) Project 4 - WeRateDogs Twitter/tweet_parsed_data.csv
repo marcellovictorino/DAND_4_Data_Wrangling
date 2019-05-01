@@ -1,4 +1,4 @@
-id,created,retweet,favorite,text,name,rate,year,month,weekday,hour
+tweet_id,created,retweet,favorite,text,name,rate,year,month,weekday,hour
 892420643555336193,2017-08-01 16:23:56+00:00,8197,37569,This is Phineas. He's a mystical boy. Only ever appears in the hole of a donut. 13/10 https://t.co/MgUWQ76dJU,Phineas,13,2017,8,Tuesday,16
 892177421306343426,2017-08-01 00:17:27+00:00,6060,32304,"This is Tilly. She's just checking pup on you. Hopes you're doing ok. If not, she's available for pats, snugs, boops, the whole bit. 13/10 https://t.co/0Xxu71qeIV",Tilly,13,2017,8,Tuesday,0
 891815181378084864,2017-07-31 00:18:03+00:00,4008,24347,This is Archie. He is a rare Norwegian Pouncing Corgo. Lives in the tall grass. You never know when one may strike. 12/10 https://t.co/wUnZnhtVJB,Archie,12,2017,7,Monday,0
