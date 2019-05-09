@@ -21,10 +21,10 @@ It can be divided into 3 main tasks:
 > The majority of people love *huge-clumsy-goofy-looking* dogs! 😂
 
 **Q4)** Evaluation of the time component of tweets/posts: November through March being the months with higher than average # of posts, having Wednesdays and Thursdays as the busiest days of the week.
-![](images\ViolinPlot-Popularity_by_weekday.PNG)
+![](images/ViolinPlot-Popularity_by_weekday.PNG)
 
  As well as a diminishing trends of posts per day, along the time, since the start of the Channel (moving average of 7 days).
-![](images\Time_Trend-Posts_along_the_time.PNG)
+![](images/Time_Trend-Posts_along_the_time.PNG)
 
 Lastly, and most important... this project would not be complete without a smile:
 ![Happy Dog](images/HappyDog.PNG)
